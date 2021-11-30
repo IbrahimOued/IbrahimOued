@@ -57,9 +57,9 @@ while True:
 
 # 📫 Connect 
 
-[<img align="left" alt="JustVladon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/JustVladon)
-[<img align="left" alt="mivladie  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/mivladie)
- [<img align="left" alt="MiVladie - GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>](https://github.com/MiVladie)
-[<img align="left" alt="mivladie  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mivladie)
+[<img align="left" alt="IbrahimOued | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Ibrah_Oued)
+[<img align="left" alt="IbrahimOued  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ibrahimouedraogo)
+ [<img align="left" alt="IbrahimOued - GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>](https://github.com/IbrahimOued)
+[<img align="left" alt="IbrahimOued  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ibraheem_oued)
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MiVladie&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=IbrahimOued&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
