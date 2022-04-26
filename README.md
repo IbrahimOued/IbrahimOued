@@ -43,8 +43,8 @@ while True:
   <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimOued&repo=jobboard&cache_seconds=86400&theme=calm"/>
 </a>
 
-<a href="https://github.com/IbrahimOued/ChronikStories">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimOued&repo=ChronikStories&cache_seconds=86400&theme=calm"/>
+<a href="https://github.com/IbrahimOued/ResumIt">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimOued&repo=ResumIt&cache_seconds=86400&theme=calm"/>
 </a>
 
 
