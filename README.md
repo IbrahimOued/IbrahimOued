@@ -116,19 +116,21 @@ while True:
 
 # 🚀 Showcase
 
-<a href="https://github.com/IbrahimOued/JobBoard">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimOued&repo=jobboard&cache_seconds=86400&theme=calm"/>
+<a href="https://github.com/IbrahimOued/transformers-for-nlp">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimOued&repo=transformers-for-nlp&cache_seconds=86400&theme=calm"/>
 </a>
 
-<a href="https://github.com/IbrahimOued/ResumIt">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimOued&repo=ResumIt&cache_seconds=86400&theme=calm"/>
+<a href="https://github.com/IbrahimOued/Building-python-web-apis-with-fastapi">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimOued&repo=Building-python-web-apis-with-fastapi&cache_seconds=86400&theme=calm"/>
 </a>
 
 
 # :octocat: GitHub
 
+
 <a href="https://github.com/IbrahimOued">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbrahimOued&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://streak-stats.demolab.com/?user=IbrahimOued&theme=hightconstrast)](https://git.io/streak-stats"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IbrahimOued&layout=compact&langs_count=8&theme=calm"/>
 </a>
 
